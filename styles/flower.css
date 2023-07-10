@@ -1,0 +1,15 @@
+.header{
+    background-color: #e5b6c0;
+}
+
+
+
+.btn{
+    border-radius: 8px;
+    background: #E55473;
+    display:inline-flex ;
+padding: 10px 20px;
+align-items: flex-start;
+gap: 10px;
+
+}
