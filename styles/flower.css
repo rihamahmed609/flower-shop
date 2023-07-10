@@ -1,15 +1,24 @@
 .header{
-    background-color: #e5b6c0;
+    background-color: #f1e5eb;
+
+}
+.btn{
+    border-radius: 00px;
+    background:rgb(233, 110, 182);
+    color:rgb(211, 213, 211);
+    border:0px;
+
+    font-size:5px;
+    
+    align-content: center;
+    backgu
 }
 
+.banner{
+display: flex;
+align-items: center;
+margin-left: 300px;
 
 
-.btn{
-    border-radius: 8px;
-    background: #E55473;
-    display:inline-flex ;
-padding: 10px 20px;
-align-items: flex-start;
-gap: 10px;
 
 }
