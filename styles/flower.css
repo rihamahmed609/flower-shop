@@ -1,0 +1,27 @@
+.header{
+    font-family: 'Lota' sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    background: rgba(229, 84, 115, 0.10);
+   
+}
+.btn{
+    border-radius: 8px;
+    background: #E55473;;
+    color: aliceblue;
+    border: none;
+    align-items: center;
+    padding: 10px 33px;
+    gap:10px
+}
+.banner{
+    padding:30px 30px 30px 150px  ;
+ display: flex;
+ align-items: center;
+
+
+}
+
+.banner .profile-pic{
+    width:500px ;
+}
+
