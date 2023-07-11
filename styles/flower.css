@@ -1,49 +1,70 @@
+*{ margin: 0px;
+    padding: 0px;
+
+
+}
+
+
 .header{
     font-family: 'Lota' sans-serif;
     font-family: 'Open Sans', sans-serif;
-    background: rgba(229, 84, 115, 0.10);
+    background: rgba(160, 22, 101, 0.1);
+    display: flex;
+    align-items: center;
+    padding: 40px 40px 50px 140px;
    
 }
 
+.banner-container{
+    display: flex;
+    justify-content: space-around;
+    height: 40vh;
+    align-items:center;
+   border:none 
+   color: none;
+   background-image: url(./flower.css),
+   /*linear-gradient(90deg, rgb(8, 67, 101)*/
+   
 
-
+}
+.title{
+    font-size: 18px;
+    font-weight: bold;
+}
+    
+.description{    font-size: 18px;
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
 .btn{
-    border-radius: 8px;
-    background: #E55473;;
-    color: aliceblue;
-    border: none;
+padding: 10px 20px ;
+background-color: rgb(220, 81, 169);
+color:aliceblue;
+border: none;
+border-radius: 10px;
+
+}
+.banner-snd{
+    display: flex;
     align-items: center;
-    padding: 10px 33px;
-    gap:10px
-}
-.banner{
-    padding:30px 30px 30px 150px  ;
- display: flex;
- align-items: center;
-
+    
+}.root{
+padding: 50px 100px;;
 
 }
+.head{font-size: 18px;
+    font-weight: bold;
 
-.banner .profile-pic{
-    width:500px ;
-
-}
-
-.banner-pr{
-    margin: auto;
-    align-items: center;
-}
-
-.banner-three{
-    padding:30px 30px 30px 150px  ;
- display: flex;
- align-items: center;
- margin: 20% 30px ;
+    display: flex;
+    justify-content: space-around;
+    height: 40vh;
+    align-items:center;
+   border:none 
+   color: none;
+   background-image: url(./flower.css),
+   /*linear-gradient(90deg, rgb(8, 67, 101)*/
+   
 
 
-}
-
-main{max-width: 1140px;
-margin: auto;
 
 }
