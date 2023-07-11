@@ -4,6 +4,9 @@
     background: rgba(229, 84, 115, 0.10);
    
 }
+
+
+
 .btn{
     border-radius: 8px;
     background: #E55473;;
@@ -23,5 +26,24 @@
 
 .banner .profile-pic{
     width:500px ;
+
 }
 
+.banner-pr{
+    margin: auto;
+    align-items: center;
+}
+
+.banner-three{
+    padding:30px 30px 30px 150px  ;
+ display: flex;
+ align-items: center;
+ margin: 20% 30px ;
+
+
+}
+
+main{max-width: 1140px;
+margin: auto;
+
+}
